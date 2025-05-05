@@ -4,8 +4,8 @@ Este proyecto simula un entorno de monitoreo en tiempo real para sistemas distri
 
 ## 🧩 Componentes
 
-- **Productor (productor_metrics_iabdXX.py)**: Genera métricas simuladas para servidores ficticios y las publica en un tópico de Kafka.
-- **Consumidor (consumidor_metrics_iabdXX.py)**: Escucha mensajes del tópico Kafka, los guarda en MongoDB Atlas y calcula KPIs cada 20 mensajes.
+- **Productor (productor_metrics_iabd11.py)**: Genera métricas simuladas para servidores ficticios y las publica en un tópico de Kafka.
+- **Consumidor (consumidor_metrics_iabd11.py)**: Escucha mensajes del tópico Kafka, los guarda en MongoDB Atlas y calcula KPIs cada 20 mensajes.
 
 ## 🐳 Docker y Servicios
 
